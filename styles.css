@@ -1,0 +1,48 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.heading-background {
+    text-align: center;
+    background-image: url("balkh-2.jpg"); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    padding: 50px; 
+    background-color: rgba(0, 0, 0, 0.5); 
+    background-blend-mode: darken;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+}
+
+body {
+    padding: 20px;
+
+}
+
+p {
+    line-height: 1.5em;
+    font-size: 15px;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+}
+
+footer {
+    background-color: rgb(167, 202, 228);
+
+}
+
+
+
+    
+
